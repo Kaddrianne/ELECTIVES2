@@ -30,7 +30,7 @@
             <p> Course: BS Computer Engineering</p>
             <br>
             <p>
-                <h4>FAVORITE FOODS</p>
+                <h4>FAVORITE FOODS</h4>
                 <p> 1. Adobo</p>
                 <p> 2. Chicken Karaage</p>
                 <p> 3. Egg</p>
